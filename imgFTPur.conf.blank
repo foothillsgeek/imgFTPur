@@ -1,0 +1,12 @@
+[FTPSettings]
+Port: 
+IncomingFolder: 
+UploadedFolder: 
+
+[imgurSettings]
+ClientID: 
+ClientSecret: 
+UploadIntervalSeconds: 
+
+[Misc]
+
